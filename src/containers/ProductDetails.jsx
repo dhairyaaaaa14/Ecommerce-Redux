@@ -44,7 +44,7 @@ const ProductDetails = () => {
                 <h4>{title}</h4>
             </div>
             <div className="product-price">
-            ₹ {price}
+            ${price}
             </div>
             <div className="product-desc">
                 {description}
